@@ -1,5 +1,14 @@
-### Hi there 👋
+## Hola 👋
 
+## Sobre Mí
+
+Mi nombre es Waldo Villagrán, soy full stack MERN.
+
+Actualmente me desempeño como desarrollador de software en RobfuSPA
+
+### Habilidades
+
+* [JAvascript]
 <!--
 **waldo-dev/waldo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
