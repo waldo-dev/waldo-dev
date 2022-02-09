@@ -1,4 +1,4 @@
-## Hola 👋
+# Hola 👋
 
 ## Sobre Mí
 
