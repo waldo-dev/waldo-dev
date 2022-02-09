@@ -8,7 +8,16 @@ Actualmente me desempeño como desarrollador de software en RobfuSPA
 
 ### Habilidades
 
-* [JAvascript]
+* HTML
+* CSS
+* Javascript
+* React
+* Express
+* MongoDb
+* NodeJS
+* ThreeJS
+* Autodesk Forge
+
 <!--
 **waldo-dev/waldo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
