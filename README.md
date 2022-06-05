@@ -4,8 +4,6 @@
 
 Mi nombre es Waldo Villagrán, soy full stack MERN.
 
-Actualmente me desempeño como desarrollador de software en RobfuSPA
-
 ### Habilidades
 
 * HTML
