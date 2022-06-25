@@ -1,20 +1,18 @@
 # Hola 👋
 
-## Sobre Mí
-
-Mi nombre es Waldo Villagrán, soy full stack MERN.
+Mi nombre es Waldo Villagrán, desarrollador full stack
 
 ### Habilidades
 
+* React
+* Next
+* Node
+* Express
+* Javascript
+* MongoDB
 * HTML
 * CSS
-* Javascript
-* React
-* Express
-* MongoDb
-* NodeJS
 * ThreeJS
-* Autodesk Forge
 
 <!--
 **waldo-dev/waldo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
