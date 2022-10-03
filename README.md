@@ -12,7 +12,6 @@ Mi nombre es Waldo Villagrán, desarrollador full stack
 * MongoDB
 * HTML
 * CSS
-* ThreeJS
 
 <!--
 **waldo-dev/waldo-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
