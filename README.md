@@ -1,6 +1,6 @@
 # Hola 👋
 
-Mi nombre es Waldo Villagrán, desarrollador full stack
+Mi nombre es Waldo Villagrán, soy desarrollador full stack.
 
 ### Habilidades
 
@@ -9,6 +9,7 @@ Mi nombre es Waldo Villagrán, desarrollador full stack
 * Node
 * Express
 * Javascript
+* Typescript
 * MongoDB
 * HTML
 * CSS
